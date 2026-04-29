@@ -98,3 +98,7 @@ The `examples/` folder contains solution writeups showing how this library is us
 - `Exc03_Passante.pdf` — training error as a function of dataset size `P/L` (Hebb rule)
 - `Exc06_Passante.pdf` — comparison of all four learning rules
 - `Exc07_Passante.pdf` — pseudo-inverse rule and Bayes-optimal generalisation bound
+
+Generalisation error ε as a function of α = P/L for all supported learning rules, benchmarked against the Bayes-optimal bound:
+
+![Generalisation error vs α for different learning rules](examples/all_rules.png)
